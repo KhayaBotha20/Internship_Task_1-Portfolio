@@ -1,0 +1,2 @@
+document.getElementById("major").textContent = "Your Major";
+document.getElementById("school").textContent = "Your School";
